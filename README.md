@@ -1,4 +1,4 @@
-# youtubedemo
+# YouTube API Demo
 A demo showing integration with the YouTube API
 
 Be sure to add your own YouTube API key in the YouTubeService class!
